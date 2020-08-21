@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(138, 138, 138);
+  height: 100vh;
+  color: #333;
+}
+
+body,
+h1,
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  color: white;
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 5px;
+}
+
+.container {
+  position: relative;
+  top: 5%;
+  text-align: center;
+}
+
+#value {
+  font-size: 6rem;
+  color: #fff;
+}
+
+.btn {
+  width: 150px;
+  height: 40px;
+  margin: 15px 10px;
+  border-radius: 5px;
+  border: 0;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #333;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: #333;
+  color: #fff;
+}
+
+.btn:focus {
+  outline: 0;
+}
