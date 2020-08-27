@@ -14,8 +14,8 @@ Methods used:
 
 Steps:
 
-- 1. Select items: value and buttons
-- 2. Set an initial vaue
-- 3. Loop through the 3 buttons (Increase, Reset, Decrease)
-- 4. Give a click event to each button
-- 5. Change value color (+: green, -: red, 0: grey)
+- Select items: value and buttons
+- Set an initial vaue
+- Loop the 3 buttons (Increase, Reset, Decrease)
+  - Give a click event to each button
+- Change value color (+: green, -: red, 0: grey)
